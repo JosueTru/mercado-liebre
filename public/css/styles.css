@@ -508,6 +508,8 @@ form.login-form .form-div input::placeholder{
         height: 12px;
     }
 
+    /*---- footer modificado  -----*/
+
     header nav ul {
         display: flex;
     }
