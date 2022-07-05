@@ -404,10 +404,7 @@ div.form-container button:hover {
     background-color: #0461ec;
 }
 
-footer div.info-footer {
-    display: flex;
-    
-}
+
 
 footer div.copyright {
    text-align: center;
@@ -495,6 +492,11 @@ form.login-form .form-div input::placeholder{
     }
 
    
+    footer div.info-footer {
+        display: flex;
+        
+    }
+
 
     /* Clase 14 - Code Review */
 
