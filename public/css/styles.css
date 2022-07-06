@@ -254,12 +254,13 @@ footer div .copyright {
 }
 
 footer div.icon-container {
-    padding-bottom: 5px;
+    padding-bottom: 0px;
 }
 
 footer div.icon-container i {
     color: #0044AA;
-    font-size: 35px;
+    font-size: 32px;
+    padding-bottom: 10px;
 }
 
 
